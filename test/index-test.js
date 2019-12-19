@@ -47,4 +47,4 @@ describe('index', () => {
 
 
 
-console.error()
+console.error();
